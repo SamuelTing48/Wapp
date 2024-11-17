@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|C:\\year 2 sem 2\\WP\\Assignment_Final Version\\assignment\\all\\login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\all\\login page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|c:\\year 2 sem 2\\wp\\assignment_final version\\assignment\\admin\\managetutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin\\managetutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|C:\\year 2 sem 2\\WP\\Assignment_Final Version\\assignment\\all\\playtutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\all\\playtutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|c:\\year 2 sem 2\\wp\\assignment_final version\\assignment\\admin\\register(admin).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin\\register(admin).aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|c:\\year 2 sem 2\\wp\\assignment_final version\\assignment\\admin\\createtutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\admin\\createtutorial.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|C:\\year 2 sem 2\\WP\\Assignment_Final Version\\assignment\\all\\home page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\all\\home page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|C:\\year 2 sem 2\\WP\\Assignment_Final Version\\assignment\\all\\login page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2189F4FC-3887-4BC8-A5A9-163F2C65041B}|Assignment\\Assignment.csproj|solutionrelative:assignment\\all\\login page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login Page.aspx",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Login Page.aspx",
+              "RelativeDocumentMoniker": "Assignment\\All\\Login Page.aspx",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Login Page.aspx",
+              "RelativeToolTip": "Assignment\\All\\Login Page.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T07:17:18.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register(Admin).aspx",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\Register(Admin).aspx",
+              "RelativeDocumentMoniker": "Assignment\\Admin\\Register(Admin).aspx",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\Register(Admin).aspx",
+              "RelativeToolTip": "Assignment\\Admin\\Register(Admin).aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T03:31:13.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTutorial.aspx",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\CreateTutorial.aspx",
+              "RelativeDocumentMoniker": "Assignment\\Admin\\CreateTutorial.aspx",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\CreateTutorial.aspx",
+              "RelativeToolTip": "Assignment\\Admin\\CreateTutorial.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T03:30:02.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageTutorial.aspx",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\ManageTutorial.aspx",
+              "RelativeDocumentMoniker": "Assignment\\Admin\\ManageTutorial.aspx",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\Admin\\ManageTutorial.aspx",
+              "RelativeToolTip": "Assignment\\Admin\\ManageTutorial.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-15T03:29:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayTutorial.aspx",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\PlayTutorial.aspx",
+              "RelativeDocumentMoniker": "Assignment\\All\\PlayTutorial.aspx",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\PlayTutorial.aspx",
+              "RelativeToolTip": "Assignment\\All\\PlayTutorial.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-13T04:45:17.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home Page.aspx.cs",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Home Page.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment\\All\\Home Page.aspx.cs",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Home Page.aspx.cs",
+              "RelativeToolTip": "Assignment\\All\\Home Page.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:28:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login Page.aspx.cs",
+              "DocumentMoniker": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Login Page.aspx.cs",
+              "RelativeDocumentMoniker": "Assignment\\All\\Login Page.aspx.cs",
+              "ToolTip": "C:\\year 2 sem 2\\WP\\Assignment_Final Version\\Assignment\\All\\Login Page.aspx.cs",
+              "RelativeToolTip": "Assignment\\All\\Login Page.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:25:45.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

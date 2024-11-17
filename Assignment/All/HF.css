@@ -1,0 +1,51 @@
+﻿body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+.header {
+    height: 100px;
+    margin: auto;
+    background-color: darkgreen;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+    .header h1 {
+        margin: 0;
+        font-size: xx-large;
+        color: white;
+    }
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+    .nav-links a {
+        color: white;
+        text-decoration: none;
+    }
+
+.footer {
+    background-image: url('../plantingsecond.jpeg');
+    height: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    text-align: center;
+    padding-right:50px;
+}
+
+.ft {
+    font-size: 20px;
+}
+

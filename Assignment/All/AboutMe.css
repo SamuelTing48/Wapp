@@ -1,0 +1,57 @@
+﻿.profile-box {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    flex: 1;
+}
+
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.description {
+    color: #777;
+    margin: 5px 0 0;
+}
+
+.profiles-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+<!-- Profile Boxes -->
+<div class="profiles-container" >
+<div class="profile-box" >
+<img src="profile1.jpg" class="profile-pic" >
+<h2 class="name" > Sean Thoo Han Ping</h2 >
+<p class="description" > TP069253</p >
+</div >
+<div class="profile-box" >
+<img src="profile2.jpg" class="profile-pic" >
+<h2 class="name" > Lee Jian Jie</h2 >
+<p class="description" > TP073997.</p >
+</div >
+<div class="profile-box" >
+<img src="profile3.jpg" class="profile-pic" >
+<h2 class="name" > Hau Zhen Yao</h2 >
+<p class="description" > TP073706</p >
+</div >
+<div class="profile-box" >
+<img src="profile4.jpg" class="profile-pic" >
+<h2 class="name" > Samuel Ting Li Wei</h2 >
+<p class="description" > TP073486</p >
+</div >
+           </div >
